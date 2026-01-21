@@ -1,5 +1,5 @@
 ----------DISCLAIMER-------------------
-This script briefly takes steamOS out of readonly mode. Proceed with caution, as you can cause serious damage!
+This script briefly takes steamOS out of read only mode. Proceed with caution, as you can cause serious damage!
 ---------------------------------------
 This is a re-upload of my pacman script that automates the setup process for installing arch packages found here: https://github.com/professionalspinach4/steamOS-pacmanscript/blob/e58a2d750c3b2796c9b9670389a13d544463dd4d/pacman.sh
 This version skips the password setup, for users that already have one set, or for post update resets.
