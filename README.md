@@ -6,5 +6,5 @@ This version skips the password setup, for users that already have one set, or f
 Open Konsole in whatever folder you saved this file to and run the command "bash ./archpackage.sh"
 You will lose your installed packages on system updates so make a list of what you've installed or create a simple script to re-install them. 
 I just tested this on a fresh system update, so you should have no issues running this. If anything changes in future updates, I'll edit the script accordingly.
-You need to disable readonly mode to install packages, I HIGHLY recommend that you disable, install, enable ofor each package/batch of packages. 
+You need to disable readonly mode to install packages, I HIGHLY recommend that you disable, install, enable for each package/batch of packages. 
 Enjoy! 
